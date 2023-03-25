@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Currently working on A Blog Website.<br>I'm Looking to collaborate more in open source.<br>I'm good with web development skills and is in interested in machine learning and AI.<br>
+Currently working on a Blog site.<br>
+Interest are Open source , ml and AI. <br>
+Guitarist and a Avid Traveller <br>
 
 
 ## 🌐 Socials:
