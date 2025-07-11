@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautam-04" alt="gautam-04" /></a> </p>
 
-- 🔭 I’m currently working on **TaxSarthi**
+- 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **web development and focusing on DSA**
+- 🌱 I’m currently learning **Web development and DSA**
 
 - 💬 Ask me about **react, frontend and backend**
 
-- 📫 How to reach me **raigautam2004@rediffmail.com**
+- 📫 How to reach me **raigautam06062004@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ft0nUZkQ3nESN88ZFusQHtJncODpLfhJ/view?usp=sharing](https://drive.google.com/file/d/1ft0nUZkQ3nESN88ZFusQHtJncODpLfhJ/view?usp=sharing">Resume Link</a>
+- 📄 Know about my experiences <a href="https://flowcv.com/resume/m6awg6dv3f">Resume Link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
